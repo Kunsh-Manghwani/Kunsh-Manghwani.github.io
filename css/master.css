@@ -2,15 +2,7 @@
 
 /* Text inside these asterisks and slashes are comments for human */
 
- .bg-style 
-   {
-    background-image: url("../images/20200828_121344_0000.png");
-    height: 100%; 
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    
-  }
+
   a {
     color: blue;/* set the text color to blue here */
     text-decoration: none; /* This means we do not want hyperlinks to be underlined */

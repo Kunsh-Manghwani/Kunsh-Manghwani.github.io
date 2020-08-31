@@ -2,17 +2,6 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
 /* Text inside these asterisks and slashes are comments for human */
 
-
- /* a {
-    color: blue;/* set the text color to blue here */
-  /*  text-decoration: none; /* This means we do not want hyperlinks to be underlined */
-  }
-/*
-  a:hover {
-    color: red;
-    /* set the text color to red here */
- /*   text-decoration: none; /* This means we do not want hyperlinks to be underlined */
- /* }*/
   body {
     background-color: white;
     color:black;
